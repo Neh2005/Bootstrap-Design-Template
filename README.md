@@ -26,4 +26,18 @@ Whether you're looking to use this as a starting point for your own projects or 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bootstrap-template.git
+   git clone https://github.com/Neh2005/bootstrap-design-template.git
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 4/5** (Specify version if you have one in mind)
+
+## 📚 What I Learned
+
+- **Grid Layouts**: Utilized Bootstrap’s grid system to create a responsive, multi-column layout.
+- **Responsive Design**: Built a webpage that adjusts smoothly across various screen sizes.
+- **Bootstrap Components**: Leveraged Bootstrap’s Navbar, Card, and Button components to structure and style the page effectively.
+  
+This project enhanced my understanding of how to use Bootstrap to speed up the design process and build layouts that are mobile-friendly and visually consistent.
